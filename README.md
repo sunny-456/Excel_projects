@@ -2,7 +2,7 @@
 This is the dashboard of Addidas sales in USA.
 ## Steps follow to get the insights 
 
-1. Data Exploration
+1. Data Exploration using excel
 2. Itentification of key metrics
 3. Preperation of different reports using Pivot table and Pivot charts.
 4. Dashboard preperation to get the meaningful insight accroding to defined metrics.
